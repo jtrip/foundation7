@@ -12,5 +12,5 @@ regions[footer] = Footer
 
 stylesheets[all][] = css/app.css
 
-scripts[] = js/modernizr.foundation.js
-scripts[] = js/app.js
+scripts[] = js/modernizr.foundation.min.js
+scripts[] = js/app.min.js
